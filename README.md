@@ -27,8 +27,8 @@
   <table style="margin-left: auto; margin-right: auto;">
     <tr>
       <td align="center">
-        <img src="https://thumbs4.imagebam.com/7d/3e/66/MESRJTA_t.png"/><br>
-        <strong>VIT</strong><br><strong>B.Tech</strong> Computer Science<br>
+        <img src="https://github.com/user-attachments/assets/8e2e65e8-1bff-48ca-a5e3-ecea00f44bf5"/ width="200"><br>
+        <strong>VIT VELLORE</strong><br><strong>B.Tech</strong><B> [COMPUTER SCIENCE & ENGINEERING]</B><br>
       </td>
     </tr>
   </table>
