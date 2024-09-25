@@ -1,8 +1,9 @@
 <div align="right">
 <a style="text-decoration: none" target="_blank"href="https://github.com/Abhijeettttttt">
-<a style="text-decoration: none" target="_blank" href="https://visitcount.itsvg.in/api?id=Abhijeettttttt&icon=0&color=12" >
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Abhijeettttttt.Abhijeettttttt&left_color=gray&right_color=blue&left_text=Total%20Coders%20Visited">
+</a>  
 <a style="text-decoration: none" target="_blank" href="https://www.linkedin.com/in/abhijeet-raj-84548b289/" >
-<img width="70"src="https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white">
+<img width="80"src="https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white">
 </a>
 </div>
 
@@ -11,7 +12,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi+There!+👋;+I'm+Abhijeet+Raj!;" />
 
 <h2>📖 | About me</h2> 
-👨‍💻As a passionate and driven Computer Science and Engineering student at Vellore Institute of Technology, I am continually exploring the ever-evolving world of technology. 💻 With hands-on experience in frontend web development and proficiency in programming languages like Java, C, C++, Python, SQL, and JavaScript, I am committed to crafting innovative solutions and building seamless user experiences.🌐
+👨‍💻As a passionate and driven <b>Computer Science and Engineering student at Vellore Institute of Technology</b>, I am continually exploring the ever-evolving world of technology. 💻 With hands-on experience in <b>frontend web development</b> and proficiency in programming languages like<b> Java, C, C++, Python, SQL, and JavaScript</b>, I am committed to crafting innovative solutions and building seamless user experiences.🌐
 
 <div align="center">
   <br>
@@ -20,14 +21,12 @@
 </div>
 
 <h2>📚 | Education</h2>
-<p>As an engineer committed to lifelong learning, my academic path is both active and aspirational. Having achieved my bachelor's degree, I'm now advancing through my master's program, with the ultimate goal of attaining a doctoral degree.</p><br>
+<p>As a B.Tech student in<b> Computer Science and Engineering at Vellore Institute of Technology</b>, I am dedicated to mastering essential programming skills and exploring cutting-edge technologies. I thrive on collaborating with peers to create impactful projects that harness the power of Tech.</p><br>
 
 <div align="center">
   <table style="margin-left: auto; margin-right: auto;">
     <tr>
       <td align="center">
-        <img src="https://thumbs4.imagebam.com/7d/3e/66/MESRJTA_t.png" height="40" alt="1.png"/>
-        <img src="https://thumbs4.imagebam.com/6c/bc/6e/MESRGXI_t.png" width="90" alt="UPS.png"/><br>
         <img src="https://thumbs4.imagebam.com/7d/3e/66/MESRJTA_t.png"/><br>
         <strong>VIT</strong><br><strong>B.Tech</strong> Computer Science<br>
       </td>
