@@ -28,9 +28,8 @@
       <td align="center">
         <img src="https://thumbs4.imagebam.com/7d/3e/66/MESRJTA_t.png" height="40" alt="1.png"/>
         <img src="https://thumbs4.imagebam.com/6c/bc/6e/MESRGXI_t.png" width="90" alt="UPS.png"/><br>
-        <img src="https://thumbs4.imagebam.com/d7/6e/91/MESRJ8U_t.png" height="20" alt="Ec.png"/><br>
+        <img src="https://thumbs4.imagebam.com/7d/3e/66/MESRJTA_t.png"/><br>
         <strong>VIT</strong><br><strong>B.Tech</strong> Computer Science<br>
-        <img src="https://progress-bar.dev/100/" width="105" alt="progress-bar"/>
       </td>
     </tr>
   </table>
