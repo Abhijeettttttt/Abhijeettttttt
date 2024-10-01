@@ -49,7 +49,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhijeettttttt&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijeettttttt&layout=compact&langs_count=7&theme=default"/></a>
 </div>
-
 <h2>🛠 | Languages, Frameworks, and Tools </h2>
 <table>
     <tr>
